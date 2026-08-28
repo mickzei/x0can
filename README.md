@@ -70,9 +70,12 @@ Private repos (proprietary product code), listed here rather than pinned.
 
 | Project | What it is |
 |---|---|
+
+| *ERP SYSTEM WITH MOBILE CUSTOMER FACING* |
+
 | **Rahisi Mtaani** ([Google Play](https://play.google.com/store/apps/details?id=com.xocan.Mtaaniv2&hl=en_US)) | Customer-facing mobile app — React Native + Expo, Firebase auth |
-| **Admin Dashboard** | Internal admin panel — React + MUI, Electron desktop build |
-| **Backend API** | Node.js/Express backend powering the mobile app and dashboard |
-| **POS System** | Point-of-sale desktop app — React + MUI, Electron |
+| **Admin Dashboard** | Internal admin panel (decomissioned) |
+| **Backend Server** | backend powering the ecosystem |
+| **Mtaani POS** | Online and Point-of-sale desktop app |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:0a0a0a&height=100&section=footer" width="100%" />
