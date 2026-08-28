@@ -1,16 +1,16 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0ea5e9&height=180&section=header&text=Hey,%20I'm%20Alex%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:dc2626&height=180&section=header&text=Hey,%20I'm%20Alex%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Founder+%26+CEO%2C+Rahisi+Mtaani;Cybersecurity+Specialist+%26+Lecturer+%40+Moringa+School;React+%7C+React+Native+%7C+Node.js+%7C+Firebase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=DC2626&center=true&vCenter=true&width=650&lines=Founder+%26+CEO%2C+Rahisi+Mtaani;Cybersecurity+Specialist+%26+Lecturer+%40+Moringa+School;React+%7C+React+Native+%7C+Node.js+%7C+Firebase" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://rahisi-mtaani.xyz"><img src="https://img.shields.io/badge/-rahisi--mtaani.xyz-0EA5E9?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://rahisi-mtaani.xyz"><img src="https://img.shields.io/badge/-rahisi--mtaani.xyz-DC2626?style=flat&logo=googlechrome&logoColor=white" /></a>
   <a href="https://twitter.com/alexmwaura43"><img src="https://img.shields.io/badge/-@alexmwaura43-1DA1F2?style=flat&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/alex-mwaura43/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/-Nairobi%2C%20Kenya-0EA5E9?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nairobi%2C%20Kenya-DC2626?style=flat&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -57,11 +57,11 @@ I design and teach Moringa School's cybersecurity program end to end, from funda
 ### 📊 GitHub stats
 
 <p align="center">
-  <img width="90%" src="https://raw.githubusercontent.com/x0can/x0can/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Activity overview" />
+  <img width="90%" src="https://raw.githubusercontent.com/x0can/x0can/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Activity overview" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/0ea5e9/x0can" alt="x0can's contribution graph" />
+  <img width="100%" src="https://ghchart.rshah.org/dc2626/x0can" alt="x0can's contribution graph" />
 </p>
 
 ### 📌 Featured projects
@@ -75,4 +75,4 @@ Private repos (proprietary product code), listed here rather than pinned.
 | **Backend API** | Node.js/Express backend powering the mobile app and dashboard |
 | **POS System** | Point-of-sale desktop app — React + MUI, Electron |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:0a0a0a&height=100&section=footer" width="100%" />
