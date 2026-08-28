@@ -57,11 +57,11 @@ I design and teach Moringa School's cybersecurity program end to end, from funda
 ### 📊 GitHub stats
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/0ea5e9/x0can" alt="x0can's contribution graph" />
+  <img width="90%" src="https://raw.githubusercontent.com/x0can/x0can/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Activity overview" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://raw.githubusercontent.com/x0can/x0can/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Activity overview" />
+  <img width="100%" src="https://ghchart.rshah.org/0ea5e9/x0can" alt="x0can's contribution graph" />
 </p>
 
 ### 📌 Featured projects
