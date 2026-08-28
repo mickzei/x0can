@@ -61,8 +61,7 @@ I design and teach Moringa School's cybersecurity program end to end, from funda
 </p>
 
 <p align="center">
-  <img width="45%" src="https://raw.githubusercontent.com/x0can/x0can/output/profile-summary-card-dark.svg#gh-dark-mode-only" />
-  <img width="45%" src="https://raw.githubusercontent.com/x0can/x0can/output/profile-summary-card.svg#gh-light-mode-only" />
+  <img width="60%" src="https://raw.githubusercontent.com/x0can/x0can/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Activity overview" />
 </p>
 
 ### 📌 Featured projects
