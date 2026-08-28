@@ -1,0 +1,25 @@
+name: Generate Profile Summary Card
+
+on:
+  schedule:
+    - cron: "30 18 * * *"  # once daily
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          github_user: x0can
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Deploy generated cards to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: profile-summary-cards-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
