@@ -67,12 +67,9 @@ I design and teach Moringa School's cybersecurity program end to end, from funda
 ### 📌 Featured projects
 
 Private repos (proprietary product code), listed here rather than pinned.
-
+*ERP SYSTEM WITH MOBILE CUSTOMER FACING* 
 | Project | What it is |
 |---|---|
-
-| *ERP SYSTEM WITH MOBILE CUSTOMER FACING* |
-
 | **Rahisi Mtaani** ([Google Play](https://play.google.com/store/apps/details?id=com.xocan.Mtaaniv2&hl=en_US)) | Customer-facing mobile app — React Native + Expo, Firebase auth |
 | **Admin Dashboard** | Internal admin panel (decomissioned) |
 | **Backend Server** | backend powering the ecosystem |
