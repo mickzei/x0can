@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:dc2626&height=180&section=header&text=Hey,%20I'm%20Alex%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:dc2626&height=180&section=header&text=Hey,%20I'm%20Mickey%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </h1>
 
 <p align="center">
@@ -17,10 +17,7 @@
 
 ### 💼 About
 
-- **Founder & CEO, [Rahisi Mtaani](https://rahisi-mtaani.xyz)** (Jan 2026–present) — previously Senior Software Engineer there, building it from the ground up (2024–2026)
-- **Cyber Security Specialist & Lecturer, Moringa School** (2023–present) — design and teach the full cybersecurity curriculum, from fundamentals to offensive security
-- BSc Computer Science & B.Com (Finance), The Technical University of Kenya
-- Certified: Cisco CyberOps Associate, Cisco Networking Essentials
+- 
 
 ---
 
